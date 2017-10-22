@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.c2d.ionic_note" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>MyApp</name>
-    <description>An awesome Ionic/Cordova app.</description>
-    <author email="hi@ionicframework" href="http://ionicframework.com/">Ionic Framework Team</author>
+<widget id="com.c2d.ionic_note" version="0.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Simple Note</name>
+    <description>Simple note taking apps.</description>
+    <author email="rahmanromli@gmail.com" href="http://ionicframework.com/">Rahman Romli</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
