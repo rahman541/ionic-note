@@ -7,6 +7,9 @@ Use ionic. Plugin added
 
 Deploying in Android
 ```
+ionic cordova run android --prod --release
+# OR
+ionic cordova build android --prod --release
 # Sign the unsigned APK
 jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore my-release-key.jks android-armv7-release-unsigned.apk my-alias
 # Zip align tool to optimize the APK
